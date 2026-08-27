@@ -1,5 +1,5 @@
 {
   "name":"ghas-demo",
   "version":"1.0.0",
-  "dependencies": {"lodash":"4.18.1","minimist":"0.0.8"}
+  "dependencies": {"lodash":"4.18.1","minimist":"1.2.6"}
 }
